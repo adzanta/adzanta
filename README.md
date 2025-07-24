@@ -20,7 +20,6 @@ I'm a passionate **Fullstack Developer** exploring technologies like **Go**, **N
 ---
 
 ### 📊 GitHub Stats
-![Adzanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=adzanta&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adzanta&layout=compact&theme=radical)](https://github.com/adzanta)
 
 ---
