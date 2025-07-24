@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hello, I'm Adzanta!
 
-<!--
-**adzanta/adzanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Fullstack Developer** exploring technologies like **Go**, **Next.js**, **MySQL**, and **Docker**.
 
-Here are some ideas to get you started:
+### 🚀 Current Focus
+- 🔨 Building a fullstack e-commerce project using Go + Echo + MySQL
+- 💡 Learning about Web3 and smart contract development
+- 🧪 Experimenting with Docker for better dev workflow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Echo](https://img.shields.io/badge/-Echo-132D46?logo=go&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Adzanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=adzanta&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adzanta&layout=compact&theme=radical)](https://github.com/adzanta)
+
+---
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/usernamekamu)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:emailkamu@gmail.com)
