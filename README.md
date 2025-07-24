@@ -19,7 +19,7 @@ I'm a passionate **Fullstack Developer** exploring technologies like **Go**, **N
 
 ---
 
-### 📊 GitHub Stats
+## 🔤 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adzanta&layout=compact&theme=radical)](https://github.com/adzanta)
 
 ---
